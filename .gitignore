@@ -1,0 +1,68 @@
+# Build Folders
+bin
+obj
+Build
+
+# User-specific files
+.user
+.userosscache
+.suo
+.vsp
+.pdb
+.opendb
+.VC.db
+
+# Logs
+.log
+.tlog
+
+# Visual Studio Code files
+.vscode
+
+# Visual Studio specific folders
+.vs
+
+# Temporary files
+.tmp
+.temp
+.bak
+.swp
+.swo
+
+# NuGet packages
+.nupkg
+.snupkg
+packages
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts
+
+# IIS
+_IISExpress
+.localhistory
+
+# Web-specific files
+node_modules
+bower_components
+wwwrootlib
+
+# Publish folder
+publish
+
+# Resharper
+_ReSharper
+.DotSettings.user
+
+# Rider
+.idea
+
+# Coverage Reports
+.coverage
+.coveragexml
+.coverage.info
+
+# Azure
+.publishsettings
+.azurePubxml
